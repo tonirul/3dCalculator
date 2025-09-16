@@ -68,7 +68,7 @@ cd 3dCalculator
 You can open directly in VS Code:
 
 bash
-Copy code
+ 
 code .
 3️⃣ Run the project
 Option 1: Right-click index.html → Open with Browser
@@ -79,7 +79,7 @@ Option 3: Host it using GitHub Pages (free deployment)
 
 📂 Project Structure
 bash
-Copy code
+ 
 3dCalculator/
 │── assets/                 
 │   ├── light-normal.jpg
